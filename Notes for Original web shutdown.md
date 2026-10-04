@@ -36,11 +36,11 @@ I've dropped the link into one chat at the time and it just grew from there, thr
 
 Some statistics: (I've never shared anything like these before)
 
--~100 average playing users
--~2.2k daily unique users
--~750 logged in users (since new log in system, 2 weeks ago)
--~17.7k saved replays (since 2 weeks ago again)
--The bot reached 282 servers at the time of writing this
+- ~100 average playing users
+- ~2.2k daily unique users
+- ~750 logged in users (since new log in system, 2 weeks ago)
+- ~17.7k saved replays (since 2 weeks ago again)
+- The bot reached 282 servers at the time of writing this
 
 (This will be edited to include more information over the next few days)
 
