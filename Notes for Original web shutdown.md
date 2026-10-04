@@ -1,6 +1,6 @@
 # On the shutdown of BetterTT
 ## What caused the shutdown?
-The day of writing this, the 3rd April 2024, the Terms of Service of Territorial were updated. The new terms disallow distribution of any modified version of the game, including BetterTT. This means that BetterTT is no longer allowed to be distributed, and as such, I have no choice but to shut it down.
+The day of writing this, the 3rd April 2024, the Terms of Service of Territorial were updated. The new terms disallow distribution of any modified version of the game, including BetterTT. This means that BetterTT *(except tank 911 web)* is no longer allowed to be distributed, and as such, I have no choice but to shut it down.
 
 I did receive a warning a few weeks prior by the developer of Territorial that this might happen, so this was sadly to be expected.
 
